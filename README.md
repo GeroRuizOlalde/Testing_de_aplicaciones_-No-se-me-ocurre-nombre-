@@ -1,5 +1,5 @@
 # Nombre de grupo
-### No se me ocurre nombre
+### SanJuaninos Testers
 
 # Integrantes
 ### Santiago Viggiano
