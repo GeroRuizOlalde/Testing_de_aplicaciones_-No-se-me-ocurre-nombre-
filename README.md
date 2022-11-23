@@ -2,7 +2,7 @@
 ### SanJuaninos Testers
 
 # Integrantes
-### Santiago Viggianus
+### Santiago Viggiano
 ### Tomas basualdo
 ### Rafael Ketelhohn 
 ### Geronimo Ruiz-Olalde
