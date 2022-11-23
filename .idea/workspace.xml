@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fcdb2007-091b-4cb0-b111-3ac6e6963c8d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Testing_de_aplicaciones_SanJuaninosTesters.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Testing_de_aplicaciones_SanJuaninosTesters.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,7 +35,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/usuario/Documents/GitHub/Testing_de_aplicaciones_SanJuaninosTesters/venv/Include/test_pytest/test_hello_world.py",
+    "last_opened_file_path": "/Users/tomasbasualdo/Documents/RepositorioClonado1",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
