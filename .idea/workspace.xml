@@ -50,7 +50,7 @@
       <recent name="C:\Users\usuario\Documents\GitHub\Testing_de_aplicaciones_SanJuaninosTesters" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests in test_001.py">
+  <component name="RunManager" selected="Python tests.Python tests in test_2.py">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Testing_de_aplicaciones_SanJuaninosTesters" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -70,20 +70,6 @@
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests in C:/Users/usuario/Documents/GitHub/Testing_de_aplicaciones_SanJuaninosTesters/test_pytest/automated/test_practica1.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="Testing_de_aplicaciones_SanJuaninosTesters" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_pytest/automated" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_pytest/automated/test_practica1.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <configuration name="Python tests in test1.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
@@ -128,6 +114,20 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests in test_3.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Testing_de_aplicaciones_SanJuaninosTesters" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_pytest/automated" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_pytest/automated/test_3.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <configuration name="pytest in test_hello_world.py" type="tests" factoryName="py.test" nameIsGenerated="true">
       <module name="Testing_de_aplicaciones_SanJuaninosTesters" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -146,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests in test_001.py" />
         <item itemvalue="Python tests.Python tests in test_2.py" />
-        <item itemvalue="Python tests.Python tests in test1.py" />
-        <item itemvalue="Python tests.Python tests in C:/Users/usuario/Documents/GitHub/Testing_de_aplicaciones_SanJuaninosTesters/test_pytest/automated/test_practica1.py" />
+        <item itemvalue="Python tests.Python tests in test_3.py" />
         <item itemvalue="Python.main" />
+        <item itemvalue="Python tests.Python tests in test_001.py" />
+        <item itemvalue="Python tests.Python tests in test1.py" />
       </list>
     </recent_temporary>
   </component>
