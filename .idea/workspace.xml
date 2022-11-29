@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fcdb2007-091b-4cb0-b111-3ac6e6963c8d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Testing_de_aplicaciones_SanJuaninosTesters.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Testing_de_aplicaciones_SanJuaninosTesters.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="fcdb2007-091b-4cb0-b111-3ac6e6963c8d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,15 +30,17 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/usuario/Documents/GitHub/Testing_de_aplicaciones_SanJuaninosTesters/venv&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/usuario/Documents/GitHub/Testing_de_aplicaciones_SanJuaninosTesters/EntregaFinal&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\usuario\Documents\GitHub\Testing_de_aplicaciones_SanJuaninosTesters\EntregaFinal" />
       <recent name="C:\Users\usuario\Documents\GitHub\Testing_de_aplicaciones_SanJuaninosTesters\test_pytest\automated" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\usuario\Documents\GitHub\Testing_de_aplicaciones_SanJuaninosTesters\EntregaFinal" />
       <recent name="C:\Users\usuario\Documents\GitHub\Testing_de_aplicaciones_SanJuaninosTesters\test_pytest\automated" />
       <recent name="C:\Users\usuario\Documents\GitHub\Testing_de_aplicaciones_SanJuaninosTesters" />
     </key>
