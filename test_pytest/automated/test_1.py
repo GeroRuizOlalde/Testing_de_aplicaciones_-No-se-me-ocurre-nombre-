@@ -35,3 +35,6 @@ class Test1():
     user_name = self.driver.find_element(By.CLASS_NAME, "dropbtn").text
     assert "invalid" in user_name
   
+
+
+# The test case is the one that lets you create an account with a used email.

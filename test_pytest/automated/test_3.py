@@ -28,3 +28,5 @@ class Test3():
     self.driver.find_element(By.CSS_SELECTOR, "p:nth-child(3) > input").click()
     user_name = self.driver.find_element(By.CLASS_NAME, "dropbtn").text
     assert "Sample" in user_name
+
+    # The test case is the one that does not let you enter with an unregistered email

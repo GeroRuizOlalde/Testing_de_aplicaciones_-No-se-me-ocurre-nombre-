@@ -32,4 +32,7 @@ class Test2():
     self.driver.find_element(By.CSS_SELECTOR, "p:nth-child(13) > input").click()
     user_name = self.driver.find_element(By.CLASS_NAME, "dropbtn").text
     assert "invalid" in user_name
-  
+
+
+  # The test case is the one that  lets create an account with a new password
+
