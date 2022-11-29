@@ -20,14 +20,14 @@ class Test2():
   
   def test_2(self):
     self.driver.get("http://127.0.0.1:5000/")
-    self.driver.set_window_size(968, 870)
+    self.driver.set_window_size(1936, 1066)
     self.driver.find_element(By.LINK_TEXT, "Sign In").click()
+    self.driver.find_element(By.LINK_TEXT, "Register here").click()
     self.driver.find_element(By.NAME, "email").click()
-    self.driver.find_element(By.NAME, "email").send_keys("sample@example.com")
-    self.driver.find_element(By.NAME, "password").click()
-    self.driver.find_element(By.NAME, "password").send_keys("samplee")
-    self.driver.find_element(By.CSS_SELECTOR, "p:nth-child(3) > input").click()
-
-    user_name = self.driver.find_element(By.CLASS_NAME, "dropbtn").text
-    assert "Sample" in user_name
+    self.driver.find_element(By.NAME, "email").send_keys("prueba@gmail.com")
+    self.driver.find_element(By.ID, "password").click()
+    self.driver.find_element(By.ID, "password").send_keys("12")
+    self.driver.find_element(By.ID, "cpassword").click()
+    self.driver.find_element(By.ID, "cpassword").send_keys("12")
+    self.driver.find_element(By.CSS_SELECTOR, "p:nth-child(13) > input").click()
   

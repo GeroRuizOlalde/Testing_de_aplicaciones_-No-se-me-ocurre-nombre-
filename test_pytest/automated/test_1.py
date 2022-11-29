@@ -10,7 +10,7 @@ from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
 
-class Test4():
+class Test1():
   def setup_method(self, method):
     self.driver = webdriver.Chrome()
     self.vars = {}
@@ -18,18 +18,18 @@ class Test4():
   def teardown_method(self, method):
     self.driver.quit()
   
-  def test_4(self):
+  def test_1(self):
     self.driver.get("http://127.0.0.1:5000/")
-    self.driver.set_window_size(1579, 949)
+    self.driver.set_window_size(1936, 1066)
     self.driver.find_element(By.LINK_TEXT, "Sign In").click()
+    self.driver.find_element(By.CSS_SELECTOR, "body").click()
+    self.driver.find_element(By.LINK_TEXT, "Register here").click()
     self.driver.find_element(By.NAME, "email").click()
-    self.driver.find_element(By.NAME, "email").send_keys("jero")
-    self.driver.find_element(By.NAME, "password").click()
-    self.driver.find_element(By.NAME, "email").click()
-    self.driver.find_element(By.NAME, "email").click()
-    self.driver.find_element(By.NAME, "email").send_keys("jero@gmail.com")
-    self.driver.find_element(By.NAME, "password").click()
-    self.driver.find_element(By.NAME, "password").send_keys("jerojero")
-    self.driver.find_element(By.CSS_SELECTOR, "p:nth-child(3) > input").click()
-    user_name = self.driver.find_element(By.CLASS_NAME, "dropbtn").text
-    assert "sample" in user_name
+    self.driver.find_element(By.NAME, "email").send_keys("sample@example.com")
+    self.driver.find_element(By.ID, "password").click()
+    self.driver.find_element(By.ID, "password").send_keys("prueba")
+    self.driver.find_element(By.ID, "cpassword").click()
+    self.driver.find_element(By.ID, "cpassword").send_keys("prueba")
+    self.driver.find_element(By.NAME, "firstName").click()
+    self.driver.find_element(By.CSS_SELECTOR, "p:nth-child(13) > input").click()
+  
