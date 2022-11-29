@@ -30,4 +30,6 @@ class Test4():
     self.driver.find_element(By.ID, "cpassword").click()
     self.driver.find_element(By.ID, "cpassword").send_keys("Mail16")
     self.driver.find_element(By.CSS_SELECTOR, "input:nth-child(4)").click()
+    user_name = self.driver.find_element(By.CLASS_NAME, "dropbtn").text
+    assert "Sample" in user_name
   

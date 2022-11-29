@@ -30,4 +30,6 @@ class Test2():
     self.driver.find_element(By.ID, "cpassword").click()
     self.driver.find_element(By.ID, "cpassword").send_keys("12")
     self.driver.find_element(By.CSS_SELECTOR, "p:nth-child(13) > input").click()
+    user_name = self.driver.find_element(By.CLASS_NAME, "dropbtn").text
+    assert "invalid" in user_name
   
